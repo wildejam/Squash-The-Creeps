@@ -11,6 +11,7 @@ height = 0.10391235
 radius = 1.2119141
 
 [node name="Player" type="CharacterBody3D"]
+transform = Transform3D(0.095, 0, 0, 0, 0.095, 0, 0, 0, 0.095, 0, 0, 0)
 collision_mask = 6
 script = ExtResource("1_onrkg")
 
